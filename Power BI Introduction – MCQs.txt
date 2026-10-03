@@ -1,0 +1,2152 @@
+Power BI Introduction – MCQs
+1. What is Power BI primarily used for?
+
+A. Software development
+B. Data analysis and visualization
+C. Operating system management
+D. Database administration
+
+Answer: B
+
+2. Which company developed Power BI?
+
+A. Google
+B. Amazon
+C. Microsoft
+D. Oracle
+
+Answer: C
+
+3. Which of the following is a Power BI component used to create reports?
+
+A. Power BI Desktop
+B. Power BI Compiler
+C. Power BI Server Manager
+D. Power BI Editor
+
+Answer: A
+
+4. What is Power BI Desktop?
+
+A. A cloud database
+B. A desktop application for creating reports and data models
+C. An operating system
+D. A programming language
+
+Answer: B
+
+5. Which language is mainly used in Power Query for data transformation?
+
+A. Java
+B. Python
+C. M
+D. C++
+
+Answer: C
+
+6. Which language is used to create measures and calculated columns in Power BI?
+
+A. SQL
+B. DAX
+C. M
+D. JavaScript
+
+Answer: B
+
+7. What does DAX stand for?
+
+A. Data Analysis Expressions
+B. Data Access Extension
+C. Database Analysis XML
+D. Data Application Exchange
+
+Answer: A
+
+8. Which feature is used to clean and transform data in Power BI?
+
+A. Power Query
+B. PowerPoint
+C. PowerShell
+D. Power Apps
+
+Answer: A
+
+9. Which of the following can Power BI connect to?
+
+A. Excel
+B. SQL Server
+C. CSV files
+D. All of the above
+
+Answer: D
+
+10. What is a Power BI report?
+
+A. A collection of visualizations and report pages
+B. A database table
+C. A programming file
+D. An operating system component
+
+Answer: A
+
+11. What is a dashboard in Power BI?
+
+A. A single-page canvas containing tiles
+B. A database
+C. A Power Query script
+D. A DAX formula
+
+Answer: A
+
+12. Where are Power BI reports commonly published for sharing and collaboration?
+
+A. Power BI Service
+B. Notepad
+C. Windows Explorer
+D. SQL Server Management Studio
+
+Answer: A
+
+13. Power BI Service is primarily:
+
+A. A cloud-based platform
+B. A desktop application
+C. A programming language
+D. A database engine
+
+Answer: A
+
+14. What is a visual in Power BI?
+
+A. A chart or graphical representation of data
+B. A database connection
+C. A DAX function
+D. A Power Query command
+
+Answer: A
+
+15. Which visual is commonly used to show trends over time?
+
+A. Line chart
+B. Pie chart
+C. Card
+D. Gauge
+
+Answer: A
+
+16. Which visual is best suited for displaying a single important number?
+
+A. Card
+B. Line chart
+C. Pie chart
+D. Map
+
+Answer: A
+
+17. What is a slicer used for in Power BI?
+
+A. Filtering report data interactively
+B. Creating databases
+C. Writing Python code
+D. Connecting to GitHub
+
+Answer: A
+
+18. What is a data model in Power BI?
+
+A. A collection of tables and relationships between them
+B. A Power BI login account
+C. A chart format
+D. A Power Query function
+
+Answer: A
+
+19. What is a relationship in Power BI?
+
+A. A connection between tables using related columns
+B. A connection between users
+C. A connection to the internet
+D. A connection between reports only
+
+Answer: A
+
+20. Which relationship is commonly used between a fact table and a
+dimension table?
+
+A. One-to-one
+B. One-to-many
+C. Many-to-many only
+D. Zero-to-zero
+
+Answer: B
+
+21. Which of the following is an example of a fact table?
+
+A. Sales
+B. Customer
+C. Product
+D. Region
+
+Answer: A
+
+22. Which of the following is typically a dimension table?
+
+A. Sales Transactions
+B. Customer
+C. Order Details
+D. Invoice Transactions
+
+Answer: B
+
+23. What is Import mode in Power BI?
+
+A. Data is loaded into the Power BI model
+B. Data is never loaded into Power BI
+C. Data is deleted after loading
+D. Data is converted to Excel
+
+Answer: A
+
+24. What does DirectQuery allow Power BI to do?
+
+A. Query the underlying data source without importing all data into the model
+B. Convert data into PDF
+C. Create a database automatically
+D. Remove all relationships
+
+Answer: A
+
+25. Which file extension is commonly associated with a Power BI Desktop report?
+
+A. .pbix
+B. .pbi
+C. .powerbi
+D. .pwr
+
+Answer: A
+
+26. What is a workspace in Power BI Service?
+
+A. A collaborative area for Power BI content
+B. A DAX formula
+C. A database table
+D. A chart type
+
+Answer: A
+
+27. What is Power BI Gateway mainly used for?
+
+A. Connecting Power BI Service to on-premises data sources
+B. Creating charts
+C. Writing DAX
+D. Designing PowerPoint slides
+
+Answer: A
+
+28. Which option allows users to share a collection of Power BI
+content with others?
+
+A. Power BI App
+B. Power Query
+C. DAX
+D. Data View
+
+Answer: A
+
+29. Which view in Power BI Desktop is mainly used to create and manage
+relationships?
+
+A. Model View
+B. Report View
+C. Data View
+D. Reading View
+
+Answer: A
+
+
+30. Which Power BI Desktop view is used to create visual reports?
+
+A. Report View
+B. Model View
+C. Data View
+D. Query View
+
+Answer: A
+
+
+
+31. What is Power BI mainly used for?
+
+A. Web development
+B. Data analysis and visualization
+C. Operating system development
+D. Network configuration
+
+Answer: B – Data analysis and visualization
+
+32. Power BI is developed by:
+
+A. Google
+B. Amazon
+C. Microsoft
+D. IBM
+
+Answer: C – Microsoft
+
+33. Which application is primarily used to develop Power BI reports?
+
+A. Power BI Desktop
+B. Power BI Compiler
+C. Power BI Server
+D. Power BI Studio
+
+Answer: A – Power BI Desktop
+
+34. What is the default file extension of a Power BI Desktop report?
+
+A. .pbi
+B. .pbix
+C. .powerbi
+D. .pbitx
+
+Answer: B – .pbix
+
+35. Which of the following is NOT a typical Power BI data source?
+
+A. Excel
+B. SQL Server
+C. CSV
+D. Microsoft Word as a database engine
+
+Answer: D – Microsoft Word as a database engine
+
+36. Power BI Service is:
+
+A. A cloud-based service
+B. A programming language
+C. A database
+D. A desktop operating system
+
+Answer: A – A cloud-based service
+
+37. Which Power BI component is mainly responsible for data transformation?
+
+A. Power Query
+B. PowerPoint
+C. Power Automate
+D. Power Apps
+
+Answer: A – Power Query
+
+38. Which language is used by Power Query?
+
+A. DAX
+B. M
+C. SQL only
+D. Python only
+
+Answer: B – M
+
+39. What does DAX stand for?
+
+A. Data Analysis Expressions
+B. Data Access Extension
+C. Database Analysis XML
+D. Data Application Exchange
+
+Answer: A – Data Analysis Expressions
+
+40. DAX is mainly used for:
+
+A. Data visualization design
+B. Creating measures and calculated columns
+C. Installing Power BI
+D. Creating Windows applications
+
+Answer: B – Creating measures and calculated columns
+
+Section B – Power BI Desktop
+41. Which Power BI Desktop view is used to create charts and reports?
+
+A. Report View
+B. Model View
+C. Data View
+D. Query View
+
+Answer: A – Report View
+
+42. Which view is mainly used to see table data?
+
+A. Report View
+B. Data View
+C. Model View
+D. Dashboard View
+
+Answer: B – Data View
+
+43. Which view is used to create and manage relationships?
+
+A. Report View
+B. Data View
+C. Model View
+D. Service View
+
+Answer: C – Model View
+
+44. What is a visual in Power BI?
+
+A. A database
+B. A graphical representation of data
+C. A DAX formula
+D. A data source
+
+Answer: B – A graphical representation of data
+
+45. Which visual is commonly used to display sales trends over time?
+
+A. Line chart
+B. Card
+C. Gauge
+D. Slicer
+
+Answer: A – Line chart
+
+46. Which visual is suitable for displaying one important value such
+as Total Sales?
+
+A. Card
+B. Pie chart
+C. Map
+D. Scatter chart
+
+Answer: A – Card
+
+47. What is a slicer used for?
+
+A. Creating relationships
+B. Interactive filtering
+C. Data loading
+D. Writing DAX
+
+Answer: B – Interactive filtering
+
+48. Which visual is useful for comparing sales between different categories?
+
+A. Bar chart
+B. Card
+C. Gauge
+D. Slicer
+
+Answer: A – Bar chart
+
+49. A Power BI report can contain:
+
+A. Only one page
+B. Multiple pages
+C. Only two pages
+D. No pages
+
+Answer: B – Multiple pages
+
+50. Which feature allows one visual to affect another visual on the
+same report page?
+
+A. Edit Interactions
+B. Power Query
+C. Gateway
+D. Dataflow
+
+Answer: A – Edit Interactions
+
+51. What is Power Query primarily used for?
+
+A. Data cleaning and transformation
+B. Dashboard sharing
+C. User authentication
+D. Report publishing only
+
+Answer: A – Data cleaning and transformation
+
+52. Which operation removes duplicate records?
+
+A. Remove Duplicates
+B. Group By
+C. Merge
+D. Append
+
+Answer: A – Remove Duplicates
+
+53. Which operation combines columns from two related tables?
+
+A. Append
+B. Merge
+C. Split
+D. Group
+
+Answer: B – Merge
+
+54. Which operation combines rows from two tables?
+
+A. Merge
+B. Append
+C. Join Column
+D. Relationship
+
+Answer: B – Append
+
+55. What does "Unpivot Columns" do?
+
+A. Converts columns into rows
+B. Converts rows into columns
+C. Deletes columns
+D. Sorts columns
+
+Answer: A – Converts columns into rows
+
+56. What is a data model?
+
+A. A collection of tables and relationships
+B. A Power BI login
+C. A chart
+D. A dashboard only
+
+Answer: A – A collection of tables and relationships
+
+57. Which relationship is commonly used between a Product dimension
+and Sales fact table?
+
+A. One-to-one
+B. One-to-many
+C. Many-to-one only
+D. Zero-to-many
+
+Answer: B – One-to-many
+
+58. In a typical star schema, the central table is usually:
+
+A. Dimension table
+B. Fact table
+C. Lookup table only
+D. Calendar table only
+
+Answer: B – Fact table
+
+59. Which is an example of a dimension?
+
+A. Sales Amount
+B. Quantity Sold
+C. Customer
+D. Transaction Amount
+
+Answer: C – Customer
+
+60. Which is an example of a measure?
+
+A. Customer Name
+B. Product Category
+C. Total Sales
+D. Customer ID
+
+Answer: C – Total Sales
+
+61. Which DAX function is used to calculate a total?
+
+A. SUM()
+B. TOTAL()
+C. ADD()
+D. CALCULATE_SUM()
+
+Answer: A – SUM()
+
+62. Which DAX function calculates an average?
+
+A. AVG()
+B. AVERAGE()
+C. MEAN()
+D. CALC_AVG()
+
+Answer: B – AVERAGE()
+
+63. What is the purpose of CALCULATE()?
+
+A. Changes or modifies filter context for an expression
+B. Creates a database
+C. Imports data
+D. Creates a visual
+
+Answer: A – Changes or modifies filter context
+
+64. Which DAX function can be used to remove filters from a table?
+
+A. ALL()
+B. REMOVE()
+C. CLEAR()
+D. DELETEFILTER()
+
+Answer: A – ALL()
+
+65. Which function is commonly used to create ranking calculations?
+
+A. RANKX()
+B. RANK()
+C. POSITION()
+D. ORDERX()
+
+Answer: A – RANKX()
+
+66. A calculated column is calculated:
+
+A. For each row
+B. Only when the report is published
+C. Only when a visual is selected
+D. Only in Power Query
+
+Answer: A – For each row
+
+67. A measure is generally calculated:
+
+A. Based on the current filter context
+B. Only once when data is imported
+C. Before data is loaded
+D. Only in Power Query
+
+Answer: A – Based on the current filter context
+
+68. Which expression correctly calculates Total Sales?
+
+A. Total Sales = SUM(Sales[SalesAmount])
+B. Total Sales = ADD(Sales[SalesAmount])
+C. Total Sales = TOTAL(Sales[SalesAmount])
+D. Total Sales = SUMTOTAL(Sales[SalesAmount])
+
+Answer: A – Total Sales = SUM(Sales[SalesAmount])
+
+69. Which DAX function is commonly used to iterate over a table and
+calculate an expression?
+
+A. SUMX()
+B. SUMTABLE()
+C. ITERATE()
+D. TABLESUM()
+
+Answer: A – SUMX()
+
+70. What is filter context?
+
+A. The filters affecting the calculation of a measure
+B. A Power Query transformation
+C. A database connection
+D. A report theme
+
+Answer: A – The filters affecting the calculation of a measure
+
+71. What is a workspace in Power BI Service?
+
+A. A collaborative area for Power BI content
+B. A DAX editor
+C. A database
+D. A Power Query window
+
+Answer: A – A collaborative area for Power BI content
+
+72. What is a Power BI App?
+
+A. A packaged collection of Power BI content shared with users
+B. A desktop application only
+C. A DAX function
+D. A database table
+
+Answer: A – A packaged collection of Power BI content shared with users
+
+73. What is a dashboard in Power BI?
+
+A. A single-page canvas containing tiles
+B. A collection of database tables
+C. A Power Query editor
+D. A DAX model
+
+Answer: A – A single-page canvas containing tiles
+
+74. What is the purpose of a gateway?
+
+A. Connect Power BI Service to on-premises data sources
+B. Create DAX formulas
+C. Create charts
+D. Create relationships
+
+Answer: A – Connect Power BI Service to on-premises data sources
+
+75. Which mode loads data into the Power BI model?
+
+A. Import
+B. DirectQuery
+C. Live Connection only
+D. Streaming only
+
+Answer: A – Import
+
+76. What is a key characteristic of DirectQuery?
+
+A. Data is queried from the underlying source when needed
+B. All data must always be imported into Power BI
+C. It converts SQL data to Excel
+D. It removes relationships
+
+Answer: A – Data is queried from the underlying source when needed
+
+77. A company wants users to see only the sales data belonging to
+their region. Which Power BI feature can be used?
+
+A. RLS
+B. Bookmarks
+C. Tooltips
+D. Themes
+
+Answer: A – RLS
+
+78. What does RLS stand for?
+
+A. Report Level Security
+B. Row-Level Security
+C. Report Loading Service
+D. Row Lookup System
+
+Answer: B – Row-Level Security
+
+79. A user wants to move a Power BI report from Development to Test
+and then Production. Which feature can help manage this process?
+
+A. Deployment Pipeline
+B. Slicer
+C. Bookmark
+D. Card
+
+Answer: A – Deployment Pipeline
+
+80. A manager wants to see detailed information after clicking a
+particular customer in a summary report. Which feature is appropriate?
+
+A. Drillthrough
+B. Gateway
+C. Dataflow
+D. Theme
+
+Answer: A – Drillthrough
+
+
+81. Total Sales
+
+You have a Sales table:
+
+Order_ID Product Sales
+1001 Laptop 50,000
+1002 Mouse 2,000
+1003 Keyboard 3,000
+
+The business wants to display Total Sales in a Card visual.
+
+Question: Which DAX measure should you create?
+
+A. Total Sales = COUNT(Sales[Sales])
+B. Total Sales = SUM(Sales[Sales])
+C. Total Sales = AVERAGE(Sales[Sales])
+D. Total Sales = SUMX(Sales)
+
+Answer: B
+
+82. Average Sales
+The manager wants to know the average sales amount per transaction.
+
+Which DAX should you use?
+
+A. Average Sales = SUM(Sales[Sales])
+B. Average Sales = COUNT(Sales[Sales])
+C. Average Sales = AVERAGE(Sales[Sales])
+D. Average Sales = AVG(Sales[Sales])
+
+Answer: C
+
+83. Number of Orders
+
+The company wants to know how many orders were received.
+
+Which DAX is appropriate?
+
+A. Order Count = SUM(Sales[Order_ID])
+B. Order Count = COUNT(Sales[Order_ID])
+C. Order Count = AVERAGE(Sales[Order_ID])
+D. Order Count = SUMX(Sales)
+
+Answer: B
+
+84. Total Profit
+
+You have:
+
+Sales[Sales]
+Sales[Cost]
+
+The business wants Total Profit.
+
+Which DAX is most appropriate?
+
+A. Profit = SUM(Sales[Sales]) - SUM(Sales[Cost])
+B. Profit = SUM(Sales[Sales] - Sales[Cost])
+C. Profit = Sales[Sales] - Sales[Cost]
+D. Profit = COUNT(Sales[Sales])
+
+Answer: A
+
+85. Profit Margin
+
+The manager wants to calculate:
+
+Profit Margin = Profit / Sales × 100
+
+You already have:
+
+Total Sales = SUM(Sales[Sales])
+Total Profit = SUM(Sales[Profit])
+
+Which measure is appropriate?
+
+A.
+
+Profit Margin = Total Profit / Total Sales
+
+B.
+
+Profit Margin = Total Profit + Total Sales
+
+C.
+
+Profit Margin = Total Sales / Total Profit
+
+D.
+
+Profit Margin = SUM(Total Profit) / SUM(Total Sales)
+
+Answer: A
+
+86. Sales for a Specific Category
+
+The Sales table contains a Category column.
+
+The manager wants a measure that calculates only Technology sales.
+
+Which DAX is appropriate?
+
+A.
+
+Technology Sales =
+CALCULATE(
+    [Total Sales],
+    Sales[Category] = "Technology"
+)
+
+B.
+
+Technology Sales =
+SUM(Sales[Category] = "Technology")
+
+C.
+
+Technology Sales =
+FILTER([Total Sales], "Technology")
+
+D.
+
+Technology Sales =
+COUNT(Sales[Category])
+
+Answer: A
+
+87. Sales Ignoring Category Filter
+
+A report contains a Category slicer.
+
+The manager wants to show Total Sales regardless of the selected Category.
+
+Which function should you consider?
+
+A. SUM()
+B. COUNT()
+C. ALL()
+D. AVERAGE()
+
+Answer: C
+
+Example:
+
+All Category Sales =
+CALCULATE(
+    [Total Sales],
+    ALL(Sales[Category])
+)
+88. Percentage of Total Sales
+
+A company wants to display each category's sales as a percentage of
+overall sales.
+
+Which calculation is appropriate?
+
+A.
+
+Sales % =
+DIVIDE(
+    [Total Sales],
+    CALCULATE([Total Sales], ALL(Sales[Category]))
+)
+
+B.
+
+Sales % = [Total Sales] * 100
+
+C.
+
+Sales % = [Total Sales] + 100
+
+D.
+
+Sales % = COUNT(Sales[Category])
+
+Answer: A
+
+SUMX / Row-Level Calculation
+89. Total Sales Amount
+
+Your table contains:
+
+Product Quantity Unit Price
+Laptop 2 50,000
+Mouse 5 1,000
+Keyboard 3 2,000
+
+There is no Sales Amount column.
+
+You need:
+
+Quantity × Unit Price
+
+Which DAX should you use?
+
+A.
+
+Sales Amount =
+SUM(Sales[Quantity] * Sales[Unit Price])
+
+B.
+
+Sales Amount =
+SUMX(
+    Sales,
+    Sales[Quantity] * Sales[Unit Price]
+)
+
+C.
+
+Sales Amount =
+COUNT(Sales[Quantity])
+
+D.
+
+Sales Amount =
+AVERAGE(Sales[Quantity] * Sales[Unit Price])
+
+Answer: B
+
+90. Why SUMX?
+
+A student asks:
+
+"Why can't I simply use SUM() when I need to multiply Quantity by Unit
+Price for every row?"
+
+What is the best explanation?
+
+A. SUMX() evaluates an expression row by row before aggregating
+B. SUM() only works with text
+C. SUMX() is used only for filtering
+D. SUM() cannot calculate numbers
+
+Answer: A
+
+Advanced Scenario Questions
+91. Top 5 Products
+
+Management wants to identify the top 5 products based on sales.
+
+Which DAX function would you investigate?
+
+A. TOPN()
+B. BOTTOM()
+C. FIRST()
+D. MAXX() only
+
+Answer: A
+
+92. Product Ranking
+
+You need to rank products based on Total Sales.
+
+Which function is commonly used?
+
+A. RANKX()
+B. ORDERBY()
+C. POSITION()
+D. SORT()
+
+Answer: A
+
+Example:
+
+Product Rank =
+RANKX(
+    ALL(Product[Product Name]),
+    [Total Sales],
+    ,
+    DESC
+)
+93. Sales Above Average
+
+Management wants to identify products whose sales are greater than the
+average product sales.
+
+Which approach is appropriate?
+
+A. Calculate average sales and compare each product against it
+B. Use only COUNT()
+C. Use only SUM()
+D. Use ALL() without any calculation
+
+Answer: A
+
+94. Sales for Selected Year
+
+A report contains a Year slicer.
+
+The user selects 2026.
+
+The manager wants the Sales measure to automatically calculate sales
+for the selected year.
+
+Which concept makes this possible?
+
+A. Filter context
+B. Row context only
+C. Power Query
+D. Data Gateway
+
+Answer: A – Filter context
+
+95. CALCULATE Scenario
+
+You have:
+
+Total Sales = SUM(Sales[Sales])
+
+You want to calculate sales only for the East region.
+
+Which function is most suitable?
+
+A. CALCULATE()
+B. COUNT()
+C. RANKX()
+D. SUMX() only
+
+Answer: A
+
+96. Difference Between Current Year and Previous Year
+
+Management wants to compare 2026 Sales with 2025 Sales.
+
+Which type of DAX functionality should you investigate?
+
+A. Time intelligence
+B. Text functions
+C. Statistical functions only
+D. Data cleansing
+
+Answer: A
+
+97. Previous Year Sales
+
+You have a proper Date table and:
+
+Total Sales = SUM(Sales[Sales])
+
+Which function can be used to calculate previous-year sales?
+
+A. PREVIOUSYEAR()
+B. LASTYEAR()
+C. PASTYEAR()
+D. YEARBACK()
+
+Answer: A
+
+Example:
+
+Previous Year Sales =
+CALCULATE(
+    [Total Sales],
+    PREVIOUSYEAR('Date'[Date])
+)
+98. Year-over-Year Growth
+
+Management wants to know the percentage increase/decrease in sales
+compared with the previous year.
+
+Which formula is conceptually correct?
+
+A. (Current Sales - Previous Sales) / Previous Sales
+B. Current Sales + Previous Sales
+C. Current Sales / Previous Sales + 100
+D. Previous Sales - Current Sales
+
+Answer: A
+
+Interview-Level Scenario Questions
+99. Measure vs Calculated Column
+
+A student creates:
+
+Total Sales = SUM(Sales[Sales])
+
+as a calculated column.
+
+The trainer asks:
+
+Is this the best approach for a report-level total?
+
+A. Yes, always
+B. No, a measure is generally more appropriate for an aggregated value
+that should respond to filter context
+C. Calculated columns cannot contain numbers
+D. Measures cannot use SUM()
+
+Answer: B
+
+100. ALL vs Current Filter
+
+A Category slicer is selected as Furniture.
+
+The report needs to show:
+
+Furniture Sales
+Total Sales across all categories
+Furniture % of Total Sales
+
+Which DAX concept is required for the second calculation?
+
+A. ALL() / removing the category filter
+B. COUNT()
+C. RANKX()
+D. AVERAGE()
+
+Answer: A
+
+101. Dynamic Top 5
+
+The user selects a Region from a slicer.
+
+The requirement is:
+
+"Show the Top 5 products within the selected region."
+
+What should the student consider?
+
+A. Preserve the Region filter context while ranking products
+B. Remove every filter using ALL()
+C. Use only COUNT()
+D. Use Power Query
+
+Answer: A
+
+102. RANKX and ALL
+
+Why might this pattern be used?
+
+Product Rank =
+RANKX(
+    ALL(Product[Product Name]),
+    [Total Sales],
+    ,
+    DESC
+)
+
+A. To rank products against the complete product list
+B. To remove all sales data
+C. To calculate average sales
+D. To create a calculated column
+
+Answer: A
+
+103. DIVIDE vs /
+
+A measure divides Profit by Sales.
+
+Which is generally safer?
+
+A. DIVIDE([Profit], [Sales])
+B. [Profit] / [Sales] always
+C. SUM([Profit], [Sales])
+D. AVERAGE([Profit], [Sales])
+
+Answer: A
+
+Reason: DIVIDE() handles division-by-zero situations more safely.
+
+104. Business Scenario
+
+A sales manager asks:
+
+"Show me the sales for customers who purchased more than ₹1,00,000."
+
+Which DAX concepts might be involved?
+
+A. FILTER() and aggregation
+B. RANKX() only
+C. COUNT() only
+D. AVERAGE() only
+
+Answer: A
+
+105. Final Interview Scenario
+
+You have a Power BI sales report with:
+
+Customer
+Product
+Region
+Sales
+Quantity
+Date
+
+The manager asks:
+
+"I want Total Sales, Previous Year Sales, YoY %, Top 5 Products,
+Product Rank, and Sales % of Total. All calculations must respond to
+slicers."
+
+Which DAX concepts are most relevant?
+
+A. SUM(), CALCULATE(), time intelligence, RANKX(), ALL(), DIVIDE()
+B. Only SUM()
+C. Only Power Query
+D. Only calculated columns
+
+Answer: A
+
+
+
+106. Star Schema
+
+You have a Sales table containing transactions and separate Customer,
+Product, and Date tables.
+
+Which modeling approach is generally appropriate?
+
+A. Snowflake only
+B. Star schema
+C. Single flat table only
+D. No relationships
+
+Answer: B – Star schema
+
+107. Fact and Dimension
+
+A Sales table contains:
+
+Order ID
+Product ID
+Customer ID
+Quantity
+Sales Amount
+
+A Product table contains:
+
+Product ID
+Product Name
+Category
+
+Which is the fact table?
+
+A. Product
+B. Category
+C. Sales
+D. Product Name
+
+Answer: C – Sales
+
+108. One-to-Many Relationship
+
+A Product table has one row per Product ID, while the Sales table can
+contain many transactions for the same Product ID.
+
+What relationship should normally be created?
+
+A. One-to-one
+B. One-to-many
+C. Many-to-many
+D. No relationship
+
+Answer: B – One-to-many
+
+Example:
+
+Product[ProductID] 1 → * Sales[ProductID]
+
+109. Cross-Filter Direction
+
+You have:
+
+Customer → Sales
+
+Customer is the dimension table and Sales is the fact table.
+
+Which cross-filter direction is commonly preferred in a star schema?
+
+A. Both
+B. Single direction from Customer to Sales
+C. Sales to Customer only
+D. No filtering
+
+Answer: B
+
+110. Many-to-Many Scenario
+
+A student has two tables:
+
+Customers
+Accounts
+
+One customer can have multiple accounts, and an account can be
+associated with multiple customers.
+
+Which relationship may be required?
+
+A. One-to-one
+B. One-to-many
+C. Many-to-many
+D. No relationship
+
+Answer: C – Many-to-many
+
+111. Duplicate Keys
+
+You try to create a one-to-many relationship between:
+
+Product[ProductID] and Sales[ProductID]
+
+Power BI does not allow the expected relationship because ProductID
+appears multiple times in the Product table.
+
+What is the likely issue?
+
+A. Product table does not have a unique key
+B. Sales table has no numbers
+C. Power BI cannot create relationships
+D. DAX is incorrect
+
+Answer: A – Product table does not have a unique key
+
+112. Date Table
+
+Your Sales table contains:
+
+OrderDate
+
+The business wants:
+
+Year
+Quarter
+Month
+YTD Sales
+Previous Year Sales
+
+What should you create?
+
+A. Product table
+B. Customer table
+C. Dedicated Date/Calendar table
+D. Sales summary table only
+
+Answer: C – Dedicated Date table
+
+113. Role-Playing Date
+
+Your Sales table contains:
+
+Order Date
+Ship Date
+
+You want to analyze sales using both dates.
+
+What modeling concept is relevant?
+
+A. Role-playing dates / multiple date relationships
+B. Many-to-many only
+C. Removing the Date table
+D. Using only calculated columns
+
+Answer: A
+
+114. Bidirectional Filtering
+
+You have a model with several dimension tables connected to a Sales
+fact table. A student sets most relationships to Both.
+
+What can be a potential problem?
+
+A. It always improves performance
+B. It can create ambiguous filter paths and unexpected results
+C. It removes all relationships
+D. It prevents DAX measures from working
+
+Answer: B
+
+115. Model Design Scenario
+
+You are designing a Sales Dashboard with:
+
+Sales: Order ID, Product ID, Customer ID, Date ID, Quantity, Sales Amount
+
+Product: Product ID, Product Name, Category
+
+Customer: Customer ID, Customer Name, City, Region
+
+Date: Date ID, Date, Month, Quarter, Year
+
+Which model is most appropriate?
+
+A. Connect every table to every other table
+B. Sales as the fact table connected to Product, Customer and Date dimensions
+C. Product connected directly to Customer and Date
+D. Put all columns into one table
+
+Answer: B – Sales fact table with dimension tables
+
+
+116. Large Dataset
+
+A Power BI model contains 50 million rows, but the report only needs
+data from the last 3 years.
+
+What is a good optimization approach?
+
+A. Load all historical data
+B. Filter unnecessary historical data before loading
+C. Add more visuals
+D. Create more calculated columns
+
+Answer: B – Filter unnecessary data
+
+117. Import vs DirectQuery
+
+A report is extremely slow because every visual sends queries to a
+large database.
+
+Which option could improve report responsiveness if the data freshness
+requirements allow it?
+
+A. Add more slicers
+B. Use Import mode
+C. Add more calculated columns
+D. Use more visuals
+
+Answer: B – Use Import mode
+
+118. Too Many Columns
+
+A source table contains 100 columns, but the report uses only 15.
+
+What should you do?
+
+A. Load all 100 columns
+B. Remove unnecessary columns before loading the data model
+C. Create measures for all columns
+D. Duplicate the table
+
+Answer: B
+
+119. High-Cardinality Column
+
+A table contains a unique TransactionID column with 50 million unique values.
+
+What can happen when such high-cardinality columns are unnecessarily
+loaded into the model?
+
+A. Model size can increase
+B. Performance can be affected
+C. Memory consumption can increase
+D. All of the above
+
+Answer: D
+
+120. Too Many Visuals
+
+A report page contains 40 visuals, and the page takes a long time to load.
+
+What should you investigate first?
+
+A. Add 10 more visuals
+B. Reduce unnecessary visuals and analyze visual query performance
+C. Add more calculated columns
+D. Change every relationship to Both
+
+Answer: B
+
+121. DAX Performance
+
+A measure contains a very complex FILTER() expression over a
+50-million-row fact table and performs slowly.
+
+What should the developer do?
+
+A. Ignore the issue
+B. Analyze and optimize the DAX expression and filter context
+C. Add more visuals
+D. Duplicate the fact table
+
+Answer: B
+
+122. Star Schema
+
+Which model generally provides a good foundation for Power BI
+performance and maintainability?
+
+A. One huge flat table in every situation
+B. Star schema with fact and dimension tables
+C. Every table connected to every other table
+D. Multiple unrelated tables
+
+Answer: B
+
+123. Power Query Optimization
+
+You have 10 Power Query steps. A filter that reduces the dataset from
+100 million rows to 5 million rows is currently performed near the
+end.
+
+What could improve performance?
+
+A. Move the filtering earlier when practical
+B. Add more transformations before filtering
+C. Duplicate the query
+D. Disable relationships
+
+Answer: A
+
+124. Performance Analyzer
+
+A user says:
+
+"When I click a slicer, the report takes 10 seconds to respond."
+
+Which Power BI feature can help identify which visuals are taking the most time?
+
+A. Bookmarks
+B. Performance Analyzer
+C. Selection Pane
+D. Sync Slicers
+
+Answer: B – Performance Analyzer
+
+125. Relationship Optimization
+
+A model has many relationships configured with Both cross-filter
+direction, resulting in ambiguous filtering and slower queries.
+
+What should you consider?
+
+A. Change every relationship to Both
+B. Use single-direction relationships where appropriate and simplify the model
+C. Remove all relationships
+D. Add calculated columns
+
+Answer: B
+
+
+
+
+126. Get Reports
+
+A developer wants to retrieve the list of reports available in a Power
+BI workspace using code.
+
+Which REST API operation is relevant?
+
+A. Get Users
+B. Get Reports
+C. Delete Report
+D. Get Datasets only
+
+ Answer: B – Get Reports
+
+127. Authentication
+
+A Python application needs to call Power BI REST APIs securely.
+
+What is required before calling protected Power BI APIs?
+
+A. Excel file
+B. Microsoft Entra ID authentication/access token
+C. Power BI visual
+D. CSV file
+
+ Answer: B
+
+128. HTTP GET
+
+A developer wants to retrieve information about a Power BI report.
+
+Which HTTP method is normally used for retrieving data?
+
+A. POST
+B. PUT
+C. GET
+D. DELETE
+
+ Answer: C – GET
+
+129. HTTP POST
+
+A developer wants to trigger a Power BI dataset refresh through the REST API.
+
+Which HTTP method is typically used?
+
+A. GET
+B. POST
+C. DELETE
+D. PATCH only
+
+ Answer: B – POST
+
+130. HTTP DELETE
+
+An administrator wants to remove a Power BI report using the REST API.
+
+Which HTTP method is appropriate?
+
+A. GET
+B. POST
+C. PUT
+D. DELETE
+
+ Answer: D – DELETE
+
+131. Workspace ID
+
+An API request requires a groupId.
+
+In Power BI REST API terminology, what does groupId commonly represent?
+
+A. Report ID
+B. Dataset ID
+C. Workspace ID
+D. User ID
+
+ Answer: C – Workspace ID
+
+132. Report ID
+
+An application needs to retrieve information about one specific report.
+
+Which identifier is required to identify that report?
+
+A. Workspace ID only
+B. Report ID
+C. Tenant name only
+D. Dataset name only
+
+ Answer: B – Report ID
+
+133. Authorization Header
+
+A developer has successfully obtained an access token.
+
+Where is the token commonly sent when calling the Power BI REST API?
+
+A. URL only
+B. Request body only
+C. Authorization header
+D. File name
+
+ Answer: C
+
+Typical format:
+
+Authorization: Bearer <access_token>
+134. REST API Use Case
+
+A company wants to automatically refresh a Power BI semantic model
+every night using an external application.
+
+Which approach could be used?
+
+A. Manually open Power BI Desktop every night
+B. Use Power BI REST API to trigger a refresh
+C. Create a new report every night
+D. Export the report to Excel
+
+ Answer: B
+
+135. Real-World Scenario
+
+A company has 100 Power BI reports across multiple workspaces. The
+administrator wants to build an application that automatically
+retrieves report information and manages Power BI content.
+
+What is a major benefit of using Power BI REST APIs?
+
+A. They replace Power BI Desktop
+B. They allow programmatic management and interaction with Power BI resources
+C. They convert Power BI into SQL Server
+D. They eliminate the need for authentication
+
+ Answer: B
+
+
+136. Power BI in Microsoft Fabric
+
+A company wants to use Power BI together with Data Engineering, Data
+Factory, Data Warehouse, and Real-Time Analytics in one platform.
+
+Which platform provides these capabilities?
+
+A. Azure DevOps
+B. Microsoft Fabric
+C. Power BI Desktop
+D. SQL Server
+
+ Answer: B – Microsoft Fabric
+
+137. Fabric Workspace
+
+A Power BI developer wants to create reports, semantic models,
+notebooks, pipelines, and other Fabric items in one collaborative
+location.
+
+Which Fabric component should be used?
+
+A. Gateway
+B. Workspace
+C. Dashboard
+D. Report
+
+ Answer: B – Workspace
+
+138. OneLake
+
+A company wants a centralized storage layer for data used across
+Fabric workloads.
+
+Which Fabric capability provides this?
+
+A. Power Query
+B. OneLake
+C. Power BI Gateway
+D. DAX
+
+ Answer: B – OneLake
+
+`149. Lakehouse
+
+A data engineer receives CSV and JSON files and wants to store and
+process them using Spark before Power BI reporting.
+
+Which Fabric item is appropriate?
+
+A. Dashboard
+B. Lakehouse
+C. Power BI Report
+D. Dataflow only
+
+ Answer: B – Lakehouse
+
+141. Data Warehouse
+
+A company has structured enterprise data and wants to use SQL
+extensively for analytics and reporting.
+
+Which Fabric workload is appropriate?
+
+A. Data Science
+B. Warehouse
+C. Eventstream
+D. Notebook only
+
+ Answer: B – Warehouse
+
+142. Fabric Data Factory
+
+A company needs to copy data from SQL Server into a Fabric destination
+every night.
+
+Which Fabric capability can be used to orchestrate this process?
+
+A. Power BI Report
+B. Data Factory / Data Pipeline
+C. DAX
+D. Dashboard
+
+ Answer: B
+
+143. Power BI Semantic Model
+
+A Fabric Warehouse contains sales data. Power BI developers need to
+create relationships, measures, and business logic before building
+reports.
+
+What should they create?
+
+A. Notebook
+B. Semantic model
+C. Eventstream
+D. Data pipeline
+
+ Answer: B – Semantic model
+
+144. DirectLake
+
+A Power BI developer wants to analyze Fabric Lakehouse data while
+avoiding the traditional full Import process.
+
+Which Power BI/Fabric capability is designed for this scenario?
+
+A. DirectQuery only
+B. DirectLake
+C. Live Excel
+D. Gateway
+
+ Answer: B – DirectLake
+
+145. End-to-End Scenario
+
+A company receives customer data from multiple sources.
+
+The requirement is:
+
+Source → Ingest → Transform → Store → Power BI Report
+
+Which Fabric combination could support this architecture?
+
+A. Data Factory → Lakehouse → Transform → Semantic Model → Power BI
+B. Power BI → Excel → Notepad
+C. DAX → PowerPoint → SQL Server
+D. Gateway → PowerPoint → Dashboard
+
+ Answer: A
+
+146. Real-Time Data
+
+A company receives continuously arriving taxi GPS events and wants to
+analyze them in near real time.
+
+Which Fabric capabilities could be relevant?
+
+A. Eventstream and Real-Time Intelligence
+B. Excel only
+C. PowerPoint
+D. Word
+
+ Answer: A
+
+147. KQL Database
+
+A company receives high-volume streaming data and wants to query it using KQL.
+
+Which Fabric item is appropriate?
+
+A. Lakehouse only
+B. KQL Database
+C. Power BI Dashboard
+D. Dataflow only
+
+ Answer: B – KQL Database
+
+148. Power BI Report from Fabric
+
+A Power BI developer wants to build a report using data stored in a
+Fabric Lakehouse.
+
+What is the typical reporting layer?
+
+A. Power BI semantic model and report
+B. Word document
+C. Git repository only
+D. PowerPoint only
+
+ Answer: A
+
+149. Deployment Pipeline
+
+A company has three environments:
+
+Development → Test → Production
+
+The Power BI team wants to move Fabric/Power BI content through these
+environments in a controlled way.
+
+Which feature is relevant?
+
+A. Slicer
+B. Deployment Pipeline
+C. Bookmark
+D. Tooltip
+
+ Answer: B – Deployment Pipeline
+
+150. OneLake + Power BI Scenario
+
+A company stores sales data in a Fabric Lakehouse. Multiple teams need
+to use the same underlying data for reporting and analytics.
+
+What is a major benefit of the Fabric approach?
+
+A. Every team must create a separate copy of the data
+B. Different Fabric workloads can work with data through the shared
+OneLake architecture
+C. Power BI cannot access Lakehouse data
+D. Data must always be exported to Excel
+
+ Answer: B
+
+151. Complete Fabric + Power BI Scenario
+
+A company wants to build this solution:
+
+SQL Server → Fabric Pipeline → Lakehouse → Transformation → Semantic
+Model → Power BI Report → Power BI App
+
+Which statement best describes the architecture?
+
+A. Power BI is used only for data ingestion
+B. Fabric handles data engineering/integration and storage, while
+Power BI provides semantic modeling, reporting and visualization
+C. Power BI replaces the entire data platform
+D. Lakehouse is only used for dashboards
+
+ Answer: B
+
+152. Power BI in Microsoft Fabric
+
+A company wants to use Power BI together with Data Engineering, Data
+Factory, Data Warehouse, and Real-Time Analytics in one platform.
+
+Which platform provides these capabilities?
+
+A. Azure DevOps
+B. Microsoft Fabric
+C. Power BI Desktop
+D. SQL Server
+
+Answer: B – Microsoft Fabric
+
+153. Fabric Workspace
+
+A Power BI developer wants to create reports, semantic models,
+notebooks, pipelines, and other Fabric items in one collaborative
+location.
+
+Which Fabric component should be used?
+
+A. Gateway
+B. Workspace
+C. Dashboard
+D. Report
+
+Answer: B – Workspace
+
+154. OneLake
+
+A company wants a centralized storage layer for data used across
+Fabric workloads.
+
+Which Fabric capability provides this?
+
+A. Power Query
+B. OneLake
+C. Power BI Gateway
+D. DAX
+
+Answer: B – OneLake
+
+155. Lakehouse
+
+A data engineer receives CSV and JSON files and wants to store and
+process them using Spark before Power BI reporting.
+
+Which Fabric item is appropriate?
+
+A. Dashboard
+B. Lakehouse
+C. Power BI Report
+D. Dataflow only
+
+Answer: B – Lakehouse
+
+156. Data Warehouse
+
+A company has structured enterprise data and wants to use SQL
+extensively for analytics and reporting.
+
+Which Fabric workload is appropriate?
+
+A. Data Science
+B. Warehouse
+C. Eventstream
+D. Notebook only
+
+Answer: B – Warehouse
+
+157. Fabric Data Factory
+
+A company needs to copy data from SQL Server into a Fabric destination
+every night.
+
+Which Fabric capability can be used to orchestrate this process?
+
+A. Power BI Report
+B. Data Factory / Data Pipeline
+C. DAX
+D. Dashboard
+
+Answer: B
+
+158. Power BI Semantic Model
+
+A Fabric Warehouse contains sales data. Power BI developers need to
+create relationships, measures, and business logic before building
+reports.
+
+What should they create?
+
+A. Notebook
+B. Semantic model
+C. Eventstream
+D. Data pipeline
+
+Answer: B – Semantic model
+
+159. DirectLake
+
+A Power BI developer wants to analyze Fabric Lakehouse data while
+avoiding the traditional full Import process.
+
+Which Power BI/Fabric capability is designed for this scenario?
+
+A. DirectQuery only
+B. DirectLake
+C. Live Excel
+D. Gateway
+
+Answer: B – DirectLake
+
+160. End-to-End Scenario
+
+A company receives customer data from multiple sources.
+
+The requirement is:
+
+Source → Ingest → Transform → Store → Power BI Report
+
+Which Fabric combination could support this architecture?
+
+A. Data Factory → Lakehouse → Transform → Semantic Model → Power BI
+B. Power BI → Excel → Notepad
+C. DAX → PowerPoint → SQL Server
+D. Gateway → PowerPoint → Dashboard
+
+Answer: A
+
+161. Real-Time Data
+
+A company receives continuously arriving taxi GPS events and wants to
+analyze them in near real time.
+
+Which Fabric capabilities could be relevant?
+
+A. Eventstream and Real-Time Intelligence
+B. Excel only
+C. PowerPoint
+D. Word
+
+Answer: A
+
+162. KQL Database
+
+A company receives high-volume streaming data and wants to query it using KQL.
+
+Which Fabric item is appropriate?
+
+A. Lakehouse only
+B. KQL Database
+C. Power BI Dashboard
+D. Dataflow only
+
+Answer: B – KQL Database
+
+163. Power BI Report from Fabric
+
+A Power BI developer wants to build a report using data stored in a
+Fabric Lakehouse.
+
+What is the typical reporting layer?
+
+A. Power BI semantic model and report
+B. Word document
+C. Git repository only
+D. PowerPoint only
+
+Answer: A
+
+164. Deployment Pipeline
+
+A company has three environments:
+
+Development → Test → Production
+
+The Power BI team wants to move Fabric/Power BI content through these
+environments in a controlled way.
+
+Which feature is relevant?
+
+A. Slicer
+B. Deployment Pipeline
+C. Bookmark
+D. Tooltip
+
+Answer: B – Deployment Pipeline
+
+165. OneLake + Power BI Scenario
+
+A company stores sales data in a Fabric Lakehouse. Multiple teams need
+to use the same underlying data for reporting and analytics.
+
+What is a major benefit of the Fabric approach?
+
+A. Every team must create a separate copy of the data
+B. Different Fabric workloads can work with data through the shared
+OneLake architecture
+C. Power BI cannot access Lakehouse data
+D. Data must always be exported to Excel
+
+Answer: B
+
+166. Complete Fabric + Power BI Scenario
+
+A company wants to build this solution:
+
+SQL Server → Fabric Pipeline → Lakehouse → Transformation → Semantic
+Model → Power BI Report → Power BI App
+
+Which statement best describes the architecture?
+
+A. Power BI is used only for data ingestion
+B. Fabric handles data engineering/integration and storage, while
+Power BI provides semantic modeling, reporting and visualization
+C. Power BI replaces the entire data platform
+D. Lakehouse is only used for dashboards
+
+Answer: B
