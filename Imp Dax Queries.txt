@@ -1,0 +1,47 @@
+YTD Revenue = TOTALYTD(SUM(E1_Sales[Revenue]), E1_Sales[SaleDate])
+
+SLA Compliance % = 
+DIVIDE(
+    CALCULATE(COUNT(E2_Tickets[TicketID]), E2_Tickets[ResolutionHours] <= E2_Tickets[SLAHours]),
+    COUNT(E2_Tickets[TicketID]),
+    0
+)
+
+Total Tickets 2025 = 
+CALCULATE(
+    COUNT(E2_Tickets[TicketID]),
+    E2_Date[Year] = 2025
+)
+
+Delivery Margin = [Total Revenue] - [Total Delivery Cost]
+
+On-Time Delivery % = 
+DIVIDE(
+    CALCULATE(COUNT(M1_Shipments[ShipmentID]), M1_Shipments[DeliveryStatus] = "On Time"),
+    [Total Shipments],
+    0
+)
+
+**Calculated Column:
+
+Delay Hours = 
+IF(
+    M1_Shipments[ActualHours] - M1_Shipments[PlannedHours] < 0, 
+    0, 
+    M1_Shipments[ActualHours] - M1_Shipments[PlannedHours]
+)
+
+
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
+
+Revenue YTD = TOTALYTD([Total Revenue], M2_Date[Date])
+
+Revenue Previous Year = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(M2_Date[Date]))
+
+Revenue YoY % = 
+DIVIDE(
+    [Total Revenue] - [Revenue Previous Year], 
+    [Revenue Previous Year], 
+    0
+)
+
