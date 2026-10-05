@@ -17,7 +17,7 @@ Delivery Margin = [Total Revenue] - [Total Delivery Cost]
 
 On-Time Delivery % = 
 DIVIDE(
-    CALCULATE(COUNT(M1_Shipments[ShipmentID]), M1_Shipments[DeliveryStatus] = "On Time"),
+    CALCULATE(M1_Shipments[Total Shipment]), M1_Shipments[DeliveryStatus] = "On Time"),
     [Total Shipments],
     0
 )
